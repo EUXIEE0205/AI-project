@@ -1,2 +1,2 @@
-# ai-project
+# AI-project
 My Personal AI project
